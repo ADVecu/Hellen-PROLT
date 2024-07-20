@@ -48,6 +48,10 @@ D116,
 #JDY DNP
 U1,
 
+#USB Connector - Main Connector
+J2,
+J1,
+
 #MAX9942 
 U771,"MAX9924UAUB+T","MSOP-10","C5145181"
 
