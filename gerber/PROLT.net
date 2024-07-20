@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/runner/work/Hellen-PROLT/Hellen-PROLT/PROLT.kicad_sch</source>
-    <date>2024-05-29T15:12:29+0000</date>
-    <tool>Eeschema 8.0.2-8.0.2-0~ubuntu22.04.1</tool>
+    <date>2024-07-20T17:29:29+0000</date>
+    <tool>Eeschema 8.0.4-8.0.4-0~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -857,16 +857,16 @@
       <tstamps>db37e37c-af22-4901-b0b4-be1984f81a43</tstamps>
     </comp>
     <comp ref="R5">
-      <value>10k</value>
+      <value>150</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C25744</field>
+        <field name="LCSC">C325755</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C25744"/>
+      <property name="LCSC" value="C325755"/>
       <property name="Sheetname" value="HighSide Output"/>
       <property name="Sheetfile" value="HS.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -875,16 +875,16 @@
       <tstamps>58a6e5b8-091f-4393-b762-bacba6823393</tstamps>
     </comp>
     <comp ref="R6">
-      <value>10k</value>
+      <value>0R</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C25744</field>
+        <field name="LCSC">C2770782</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C25744"/>
+      <property name="LCSC" value="C2770782"/>
       <property name="Sheetname" value="HighSide Output"/>
       <property name="Sheetfile" value="HS.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -893,16 +893,16 @@
       <tstamps>2d0c8202-cec1-4c8d-96b9-9ea9cc840e95</tstamps>
     </comp>
     <comp ref="R7">
-      <value>10k</value>
+      <value>15k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C25744</field>
+        <field name="LCSC">C881094</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C25744"/>
+      <property name="LCSC" value="C881094"/>
       <property name="Sheetname" value="HighSide Output"/>
       <property name="Sheetfile" value="HS.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
