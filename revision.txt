@@ -2,7 +2,7 @@
 
 BOARD_PREFIX=PRO
 BOARD_SUFFIX=LT
-BOARD_REVISION=D
+BOARD_REVISION=E
 
 # does not affect fab files, only needed to have nice rendered preview
 BOARD_PCB_OFFSET=0,0
