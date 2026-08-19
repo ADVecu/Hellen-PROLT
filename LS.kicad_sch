@@ -166,11 +166,11 @@
         )
       )
     )
-    (symbol "misc:+12V_RAW" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
+    (symbol "power:+12V" (power) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "#PWR" (at 0 -3.81 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Value" "+12V_RAW" (at 0 3.556 0)
+      (property "Value" "+12V" (at 0 3.556 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at 0 0 0)
@@ -179,13 +179,13 @@
       (property "Datasheet" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "power-flag" (at 0 0 0)
+      (property "ki_keywords" "global power" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Power symbol creates a global label with name \"+12V_RAW\"" (at 0 0 0)
+      (property "ki_description" "Power symbol creates a global label with name \"+12V\"" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (symbol "+12V_RAW_0_1"
+      (symbol "+12V_0_1"
         (polyline
           (pts
             (xy -0.762 1.27)
@@ -211,9 +211,9 @@
           (fill (type none))
         )
       )
-      (symbol "+12V_RAW_1_1"
+      (symbol "+12V_1_1"
         (pin power_in line (at 0 0 90) (length 0) hide
-          (name "+12V_RAW" (effects (font (size 1.27 1.27))))
+          (name "+12V" (effects (font (size 1.27 1.27))))
           (number "1" (effects (font (size 1.27 1.27))))
         )
       )
@@ -587,6 +587,31 @@
     )
   )
 
+  (symbol (lib_id "power:+12V") (at 142.24 20.32 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 194f3d6f-bfe7-4eef-83af-96b5f11a8938)
+    (property "Reference" "#PWR06" (at 142.24 24.13 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+12V" (at 142.24 16.51 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 142.24 20.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 142.24 20.32 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 30890028-3766-4af9-835e-2c603d82d118))
+    (instances
+      (project "PROLT"
+        (path "/b8382448-02ab-4b6d-b574-50f724fc5555/4d1d140e-577f-4c68-bab8-9a91e78a044c"
+          (reference "#PWR06") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 116.84 49.53 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a952d86-efaf-4d5a-8684-3d7985802b78)
@@ -875,31 +900,6 @@
     )
   )
 
-  (symbol (lib_id "misc:+12V_RAW") (at 142.24 45.72 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid bf59d1b9-c91f-4af1-a590-b160cb634c83)
-    (property "Reference" "#PWR016" (at 142.24 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+12V_RAW" (at 142.24 41.91 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 142.24 45.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 142.24 45.72 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 79c57bbf-2d28-4b39-bb6a-94cdf36bdd7a))
-    (instances
-      (project "PROLT"
-        (path "/b8382448-02ab-4b6d-b574-50f724fc5555/4d1d140e-577f-4c68-bab8-9a91e78a044c"
-          (reference "#PWR016") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:GND") (at 58.42 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cdf47bd1-a19e-466e-a75a-08985c86427d)
@@ -920,6 +920,31 @@
       (project "PROLT"
         (path "/b8382448-02ab-4b6d-b574-50f724fc5555/4d1d140e-577f-4c68-bab8-9a91e78a044c"
           (reference "#PWR070") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+12V") (at 142.24 45.72 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid d64f6751-c291-4641-9652-6798ddad19da)
+    (property "Reference" "#PWR015" (at 142.24 49.53 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+12V" (at 142.24 41.91 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 142.24 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 142.24 45.72 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a073dfd1-3d62-4e97-ae85-78da7f512232))
+    (instances
+      (project "PROLT"
+        (path "/b8382448-02ab-4b6d-b574-50f724fc5555/4d1d140e-577f-4c68-bab8-9a91e78a044c"
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -980,31 +1005,6 @@
       (project "PROLT"
         (path "/b8382448-02ab-4b6d-b574-50f724fc5555/4d1d140e-577f-4c68-bab8-9a91e78a044c"
           (reference "D2") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "misc:+12V_RAW") (at 142.24 20.32 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid eee292f0-0650-4a34-942b-0e342432ca24)
-    (property "Reference" "#PWR015" (at 142.24 24.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+12V_RAW" (at 142.24 16.51 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 142.24 20.32 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 142.24 20.32 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid c9cb6948-8a9d-4035-a141-1bc2f2b7d65b))
-    (instances
-      (project "PROLT"
-        (path "/b8382448-02ab-4b6d-b574-50f724fc5555/4d1d140e-577f-4c68-bab8-9a91e78a044c"
-          (reference "#PWR015") (unit 1)
         )
       )
     )
