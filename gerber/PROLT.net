@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/runner/work/Hellen-PROLT/Hellen-PROLT/PROLT.kicad_sch</source>
-    <date>2026-02-24T23:03:07+0000</date>
+    <date>2026-08-19T20:18:33+0000</date>
     <tool>Eeschema 8.0.9-8.0.9-0~ubuntu24.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -708,52 +708,52 @@
       <tstamps>9e8a77a9-5ff9-4e1e-a505-ed63b6831d17</tstamps>
     </comp>
     <comp ref="R1">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>71497ccc-87cd-4c16-9359-6a93d7800f2e</tstamps>
+      <tstamps>2f43dc8e-43c9-447d-acd6-ce888cfb3f08</tstamps>
     </comp>
     <comp ref="R2">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>13ccfdf3-7b49-4550-9f8f-484b2d7c707a</tstamps>
+      <tstamps>ef6ec019-44d3-447c-bb7c-605a52d4b6bf</tstamps>
     </comp>
     <comp ref="R3">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
@@ -762,126 +762,182 @@
       <tstamps>d7c35a7f-19f3-4f8f-8b0f-fcbebfb0f108</tstamps>
     </comp>
     <comp ref="R4">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>9c89ecd1-ac73-421a-afaf-b4e07e749b04</tstamps>
+      <tstamps>764f46ef-85b6-4f5c-8362-b9719ff50ea8</tstamps>
     </comp>
     <comp ref="R17">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>0d61d4d8-d62e-417d-a189-f8d212d72922</tstamps>
+      <tstamps>8f8b30c7-950a-440a-ba08-553c5ce07aa2</tstamps>
     </comp>
     <comp ref="R18">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>3daf0a17-c97b-4e40-a9cd-50f3e5f0249f</tstamps>
+      <tstamps>6405d16c-77d3-41e0-9e4f-9581983ec782</tstamps>
     </comp>
     <comp ref="R19">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>69815731-1fd0-43e8-a1c0-35c41a8fbc42</tstamps>
+      <tstamps>4f51b293-8d15-4eaf-8091-fabc069239a1</tstamps>
     </comp>
     <comp ref="R20">
-      <value>4.7k</value>
+      <value>10k</value>
       <footprint>Hellen:R0603</footprint>
       <fields>
-        <field name="LCSC">C23162</field>
+        <field name="LCSC">C98220</field>
         <field name="Footprint">Hellen:R0603</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
-      <property name="LCSC" value="C23162"/>
+      <property name="LCSC" value="C98220"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
       <property name="ki_keywords" value="R res resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>639717a7-c38a-4d1a-bb9c-3f6dde781625</tstamps>
+      <tstamps>1b6700f3-cad7-43f1-868f-2e03e98e092e</tstamps>
     </comp>
     <comp ref="U1">
-      <value>VNLD5160TR-E</value>
-      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <value>BTS3046SDRATMA1</value>
+      <footprint>easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C2680440.pdf</datasheet>
       <fields>
-        <field name="LCSC">C377942</field>
-        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
-        <field name="Datasheet"/>
+        <field name="Manufacturer">Infineon(英飞凌)</field>
+        <field name="MPN">BTS3046SDRATMA1</field>
+        <field name="LCSC Part">C2680440</field>
+        <field name="Footprint">easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C2680440.pdf</field>
         <field name="Description"/>
       </fields>
-      <libsource lib="chips" part="VNLD5160" description=""/>
-      <property name="LCSC" value="C377942"/>
+      <libsource lib="easyeda2kicad" part="BTS3046SDRATMA1" description=""/>
+      <property name="Manufacturer" value="Infineon(英飞凌)"/>
+      <property name="MPN" value="BTS3046SDRATMA1"/>
+      <property name="LCSC Part" value="C2680440"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
+      <property name="ki_keywords" value="Power Distribution Switches"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>30501549-ce52-4b4c-9d04-d58c9985a73b</tstamps>
+      <tstamps>24ce075b-88de-4b0d-9fee-624f51514044</tstamps>
     </comp>
     <comp ref="U2">
-      <value>VNLD5160TR-E</value>
-      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <value>BTS3046SDRATMA1</value>
+      <footprint>easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C2680440.pdf</datasheet>
       <fields>
-        <field name="LCSC">C377942</field>
-        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
-        <field name="Datasheet"/>
+        <field name="Manufacturer">Infineon(英飞凌)</field>
+        <field name="MPN">BTS3046SDRATMA1</field>
+        <field name="LCSC Part">C2680440</field>
+        <field name="Footprint">easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C2680440.pdf</field>
         <field name="Description"/>
       </fields>
-      <libsource lib="chips" part="VNLD5160" description=""/>
-      <property name="LCSC" value="C377942"/>
+      <libsource lib="easyeda2kicad" part="BTS3046SDRATMA1" description=""/>
+      <property name="Manufacturer" value="Infineon(英飞凌)"/>
+      <property name="MPN" value="BTS3046SDRATMA1"/>
+      <property name="LCSC Part" value="C2680440"/>
       <property name="Sheetname" value="Injectors"/>
       <property name="Sheetfile" value="INJ.kicad_sch"/>
+      <property name="ki_keywords" value="Power Distribution Switches"/>
       <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
-      <tstamps>44ce7d35-d3a5-4209-bdb8-053fa4aae3fa</tstamps>
+      <tstamps>ecb910d5-29bf-4a42-b249-c6cba42182af</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>BTS3046SDRATMA1</value>
+      <footprint>easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C2680440.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Infineon(英飞凌)</field>
+        <field name="MPN">BTS3046SDRATMA1</field>
+        <field name="LCSC Part">C2680440</field>
+        <field name="Footprint">easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C2680440.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="easyeda2kicad" part="BTS3046SDRATMA1" description=""/>
+      <property name="Manufacturer" value="Infineon(英飞凌)"/>
+      <property name="MPN" value="BTS3046SDRATMA1"/>
+      <property name="LCSC Part" value="C2680440"/>
+      <property name="Sheetname" value="Injectors"/>
+      <property name="Sheetfile" value="INJ.kicad_sch"/>
+      <property name="ki_keywords" value="Power Distribution Switches"/>
+      <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
+      <tstamps>0db5e681-1a74-4927-a925-5a46ef5e7212</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>BTS3046SDRATMA1</value>
+      <footprint>easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C2680440.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">Infineon(英飞凌)</field>
+        <field name="MPN">BTS3046SDRATMA1</field>
+        <field name="LCSC Part">C2680440</field>
+        <field name="Footprint">easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C2680440.pdf</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="easyeda2kicad" part="BTS3046SDRATMA1" description=""/>
+      <property name="Manufacturer" value="Infineon(英飞凌)"/>
+      <property name="MPN" value="BTS3046SDRATMA1"/>
+      <property name="LCSC Part" value="C2680440"/>
+      <property name="Sheetname" value="Injectors"/>
+      <property name="Sheetfile" value="INJ.kicad_sch"/>
+      <property name="ki_keywords" value="Power Distribution Switches"/>
+      <sheetpath names="/Injectors/" tstamps="/c5626a96-120d-4bb4-bc1b-dee2087e4191/"/>
+      <tstamps>713213ea-ad00-418b-ace2-921a4a25c2d9</tstamps>
     </comp>
     <comp ref="C1">
       <value>10nF</value>
@@ -2017,6 +2073,24 @@
         <pin num="8" name="D1" type="power_out"/>
       </pins>
     </libpart>
+    <libpart lib="easyeda2kicad" part="BTS3046SDRATMA1">
+      <docs>https://www.lcsc.com/datasheet/C2680440.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BTS3046SDRATMA1</field>
+        <field name="Footprint">easyeda2kicad:PG-TO252-3_L6.5-W6.2-P4.57-LS10.0-BR-CW-1</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C2680440.pdf</field>
+        <field name="Description"/>
+        <field name="Manufacturer">Infineon(英飞凌)</field>
+        <field name="MPN">BTS3046SDRATMA1</field>
+        <field name="LCSC Part">C2680440</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="unspecified"/>
+        <pin num="2" name="DRAIN" type="unspecified"/>
+        <pin num="3" name="SOURCE" type="unspecified"/>
+      </pins>
+    </libpart>
     <libpart lib="hellen-one-common" part="LOGO">
       <fields>
         <field name="Reference">G</field>
@@ -2263,6 +2337,8 @@
       <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="6" name="+12V">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F4" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="F5" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="F6" pin="1" pinfunction="1" pintype="passive"/>
@@ -2271,8 +2347,6 @@
       <node ref="R14" pin="2" pintype="passive"/>
     </net>
     <net code="7" name="+12V_RAW">
-      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
-      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="F7" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="IC1" pin="5" pinfunction="VS_1" pintype="passive"/>
       <node ref="IC1" pin="6" pinfunction="VS_2" pintype="passive"/>
@@ -2401,39 +2475,39 @@
     </net>
     <net code="30" name="/INJ1_IN">
       <node ref="M1" pin="E17" pinfunction="OUT_INJ1_(PD3)" pintype="passive"/>
-      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
       <node ref="R3" pin="2" pintype="passive"/>
     </net>
     <net code="31" name="/INJ1_OUT">
       <node ref="J1" pin="E1" pinfunction="E1" pintype="passive"/>
-      <node ref="U1" pin="8" pinfunction="D1" pintype="power_out"/>
+      <node ref="U5" pin="2" pinfunction="DRAIN" pintype="unspecified"/>
     </net>
     <net code="32" name="/INJ2_IN">
       <node ref="M1" pin="E16" pinfunction="OUT_INJ2_(PA9)" pintype="passive"/>
-      <node ref="R2" pin="2" pintype="passive"/>
-      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
     </net>
     <net code="33" name="/INJ2_OUT">
       <node ref="J1" pin="D1" pinfunction="D1" pintype="passive"/>
-      <node ref="U1" pin="6" pinfunction="D2" pintype="power_out"/>
+      <node ref="U1" pin="2" pinfunction="DRAIN" pintype="unspecified"/>
     </net>
     <net code="34" name="/INJ3_IN">
       <node ref="M1" pin="E15" pinfunction="OUT_INJ3_(PD11)" pintype="passive"/>
       <node ref="R17" pin="2" pintype="passive"/>
-      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
     </net>
     <net code="35" name="/INJ3_OUT">
       <node ref="J1" pin="C1" pinfunction="C1" pintype="passive"/>
-      <node ref="U2" pin="8" pinfunction="D1" pintype="power_out"/>
+      <node ref="U2" pin="2" pinfunction="DRAIN" pintype="unspecified"/>
     </net>
     <net code="36" name="/INJ4_IN">
       <node ref="M1" pin="E14" pinfunction="OUT_INJ4_(PD10)" pintype="passive"/>
       <node ref="R18" pin="2" pintype="passive"/>
-      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
     </net>
     <net code="37" name="/INJ4_OUT">
       <node ref="J1" pin="B1" pinfunction="B1" pintype="passive"/>
-      <node ref="U2" pin="6" pinfunction="D2" pintype="power_out"/>
+      <node ref="U6" pin="2" pinfunction="DRAIN" pintype="unspecified"/>
     </net>
     <net code="38" name="/IN_AUX1">
       <node ref="J1" pin="C3" pinfunction="C3" pintype="passive"/>
@@ -2605,26 +2679,26 @@
       <node ref="M1" pin="G" pinfunction="GND" pintype="passive"/>
       <node ref="M2" pin="G" pinfunction="GND" pintype="passive"/>
       <node ref="M3" pin="S1" pinfunction="GND" pintype="passive"/>
-      <node ref="R1" pin="1" pintype="passive"/>
       <node ref="R10" pin="1" pintype="passive"/>
       <node ref="R15" pin="1" pintype="passive"/>
-      <node ref="R17" pin="1" pintype="passive"/>
-      <node ref="R18" pin="1" pintype="passive"/>
-      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
       <node ref="R23" pin="1" pintype="passive"/>
       <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
       <node ref="R5" pin="1" pintype="passive"/>
       <node ref="R8" pin="1" pintype="passive"/>
       <node ref="R9" pin="1" pintype="passive"/>
       <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="U1" pin="5" pinfunction="S2" pintype="power_in"/>
-      <node ref="U1" pin="7" pinfunction="S1" pintype="power_in"/>
-      <node ref="U2" pin="5" pinfunction="S2" pintype="power_in"/>
-      <node ref="U2" pin="7" pinfunction="S1" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="SOURCE" pintype="unspecified"/>
+      <node ref="U2" pin="3" pinfunction="SOURCE" pintype="unspecified"/>
       <node ref="U3" pin="5" pinfunction="S2" pintype="power_in"/>
       <node ref="U3" pin="7" pinfunction="S1" pintype="power_in"/>
       <node ref="U4" pin="5" pinfunction="S2" pintype="power_in"/>
       <node ref="U4" pin="7" pinfunction="S1" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="SOURCE" pintype="unspecified"/>
+      <node ref="U6" pin="3" pinfunction="SOURCE" pintype="unspecified"/>
     </net>
     <net code="67" name="GNDA">
       <node ref="J1" pin="E4" pinfunction="E4" pintype="passive"/>
@@ -2668,37 +2742,37 @@
       <node ref="M3" pin="E6" pinfunction="PG_5VP" pintype="passive"/>
       <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
     </net>
-    <net code="77" name="Net-(U1-IN1)">
-      <node ref="R3" pin="1" pintype="passive"/>
-      <node ref="U1" pin="1" pinfunction="IN1" pintype="input"/>
+    <net code="77" name="Net-(U1-IN)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="unspecified"/>
     </net>
-    <net code="78" name="Net-(U1-IN2)">
-      <node ref="R4" pin="1" pintype="passive"/>
-      <node ref="U1" pin="3" pinfunction="IN2" pintype="input"/>
+    <net code="78" name="Net-(U2-IN)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="unspecified"/>
     </net>
-    <net code="79" name="Net-(U2-IN1)">
-      <node ref="R19" pin="1" pintype="passive"/>
-      <node ref="U2" pin="1" pinfunction="IN1" pintype="input"/>
-    </net>
-    <net code="80" name="Net-(U2-IN2)">
-      <node ref="R20" pin="1" pintype="passive"/>
-      <node ref="U2" pin="3" pinfunction="IN2" pintype="input"/>
-    </net>
-    <net code="81" name="Net-(U3-IN1)">
+    <net code="79" name="Net-(U3-IN1)">
       <node ref="R25" pin="1" pintype="passive"/>
       <node ref="U3" pin="1" pinfunction="IN1" pintype="input"/>
     </net>
-    <net code="82" name="Net-(U3-IN2)">
+    <net code="80" name="Net-(U3-IN2)">
       <node ref="R26" pin="1" pintype="passive"/>
       <node ref="U3" pin="3" pinfunction="IN2" pintype="input"/>
     </net>
-    <net code="83" name="Net-(U4-IN1)">
+    <net code="81" name="Net-(U4-IN1)">
       <node ref="R21" pin="1" pintype="passive"/>
       <node ref="U4" pin="1" pinfunction="IN1" pintype="input"/>
     </net>
-    <net code="84" name="Net-(U4-IN2)">
+    <net code="82" name="Net-(U4-IN2)">
       <node ref="R22" pin="1" pintype="passive"/>
       <node ref="U4" pin="3" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="83" name="Net-(U5-IN)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U5" pin="1" pinfunction="IN" pintype="unspecified"/>
+    </net>
+    <net code="84" name="Net-(U6-IN)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pinfunction="IN" pintype="unspecified"/>
     </net>
     <net code="85" name="unconnected-(IC2-SO-Pad3)">
       <node ref="IC2" pin="3" pinfunction="SO" pintype="passive+no_connect"/>
@@ -2835,28 +2909,16 @@
     <net code="129" name="unconnected-(M3-V12-PadE2)">
       <node ref="M3" pin="E2" pinfunction="V12" pintype="passive+no_connect"/>
     </net>
-    <net code="130" name="unconnected-(U1-STATUS1-Pad2)">
-      <node ref="U1" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
-    </net>
-    <net code="131" name="unconnected-(U1-STATUS2-Pad4)">
-      <node ref="U1" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
-    </net>
-    <net code="132" name="unconnected-(U2-STATUS1-Pad2)">
-      <node ref="U2" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
-    </net>
-    <net code="133" name="unconnected-(U2-STATUS2-Pad4)">
-      <node ref="U2" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
-    </net>
-    <net code="134" name="unconnected-(U3-STATUS1-Pad2)">
+    <net code="130" name="unconnected-(U3-STATUS1-Pad2)">
       <node ref="U3" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="135" name="unconnected-(U3-STATUS2-Pad4)">
+    <net code="131" name="unconnected-(U3-STATUS2-Pad4)">
       <node ref="U3" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
-    <net code="136" name="unconnected-(U4-STATUS1-Pad2)">
+    <net code="132" name="unconnected-(U4-STATUS1-Pad2)">
       <node ref="U4" pin="2" pinfunction="STATUS1" pintype="open_collector+no_connect"/>
     </net>
-    <net code="137" name="unconnected-(U4-STATUS2-Pad4)">
+    <net code="133" name="unconnected-(U4-STATUS2-Pad4)">
       <node ref="U4" pin="4" pinfunction="STATUS2" pintype="open_collector+no_connect"/>
     </net>
   </nets>
